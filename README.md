@@ -1,14 +1,14 @@
 # RNA complementarity
 
-This implementation makes a RNA complementarity alignment, namely it detects where two strands of RNA are complementary. This simple implementation is the core of the application found here: https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal
+This implementation makes a RNA complementarity alignment, namely it detects where two strands of RNA are complementary. This simple implementation is the core for normal alignment of the application found here: https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal
 
 
 # Live demo
-https://gagniuc.github.io/DNA-complementarity-alignment-in-JS/
+https://gagniuc.github.io/RNA-complementarity/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complementarity%20alignment%20in%20JS.PNG)
+![screenshot](https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA.png?raw=true)
 
 # References
 
