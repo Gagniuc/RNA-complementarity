@@ -8,7 +8,7 @@ https://gagniuc.github.io/RNA-complementarity/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA.png?raw=true)
+![screenshot](https://github.com/Gagniuc/RNA-complementarity/blob/main/RNA%20complementarity.png)
 
 # References
 
